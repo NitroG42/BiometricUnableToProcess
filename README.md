@@ -8,3 +8,7 @@ Use case :
 Explanation :
 It seems Face Unlock will attempt to use the camera, which is still used by the previous screen (it is shutting down and the camera is closing).
 Unfortunatelly, this attempt will immediately display an error, and we can't check before hands if the biometric sensor is initialized.
+
+# Tracker
+
+https://issuetracker.google.com/issues/161584619
